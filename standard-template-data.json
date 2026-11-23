@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.6.0",
-    "generatedAt": "2026-11-23T05:51:04.679638075Z",
+    "version": "1.7.0",
+    "generatedAt": "2026-11-23T05:57:20.919076998Z",
     "templateType": "trip_h",
     "propertyId": "ea030eaf-1514-4842-98c2-fa5f560bb52c",
     "homepageId": "01a171b5-e08f-788d-85c0-f803f367b502"
@@ -81,24 +81,24 @@
         "displayOrder": 0,
         "images": [
           {
-            "id": "01a171b5-d864-77c7-8da8-5ee6309b79ef",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a171b5-ce49-7cd1-a81f-709d91c0d64e/main/1792909104480-qokeccbgi8.webp",
+            "id": "01a206f9-6254-76f8-971f-347c929700a5",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a171b5-ce49-7cd1-a81f-709d91c0d64e/main/1795413336339-byufcswqit.jpg",
             "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "01a171b5-d8ea-7936-915d-5d07a02de0c5",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a171b5-ce49-7cd1-a81f-709d91c0d64e/main/1792909104667-hqh53196oi.webp",
+            "id": "01a206f9-63b2-7340-8993-1bfbc472c125",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a171b5-ce49-7cd1-a81f-709d91c0d64e/main/1795413336337-ejy4wwywfc.jpg",
             "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "01a171b5-d7f4-73e1-a59f-ddd4cfa7e29f",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a171b5-ce49-7cd1-a81f-709d91c0d64e/main/1792909104717-22jojzuas6.webp",
+            "id": "01a206f9-62af-7d44-b003-23ce1e3926e2",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a171b5-ce49-7cd1-a81f-709d91c0d64e/main/1795413336335-al3jypmab1.jpg",
             "sortOrder": 2,
             "description": "",
             "isSelected": true,
