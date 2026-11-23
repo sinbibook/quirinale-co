@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.3.0",
-    "generatedAt": "2026-11-23T05:28:13.608612440Z",
+    "version": "1.4.0",
+    "generatedAt": "2026-11-23T05:37:04.581829008Z",
     "templateType": "trip_h",
     "propertyId": "ea030eaf-1514-4842-98c2-fa5f560bb52c",
     "homepageId": "01a171b5-e08f-788d-85c0-f803f367b502"
@@ -22,7 +22,7 @@
     "checkin": "15:00",
     "checkout": "11:00",
     "checkInOutInfo": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 오후 10시 이후 입실 시 사전 문의",
-    "usageGuide": "[공지사항]\n※ 객실 금액은 기준인원 금액이며 인원 초과 시 추가요금 발생\n※ 예약 시 예약인원을 꼭 확인\n※ 당일 예약 후 오후 10시 이후 입실은 확정 예약 아님 / 업체 사전 문의 필요\n※ 펜션 이용 인원은 입실 기준 / 숙박 여부 관계없이 추가비용 발생\n※ 입실 규정유의사항환불정책 미숙지로 인한 문제는 책임지지 않음\n※ 객실 내 육류,생선류,청국장 등 냄새 심한 음식 조리 불가\n※ 흡연은 개별테라스 및 지정된 흡연구역 이용\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 오후 10시 이후 입실 시 사전 문의\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 12개월 이상~8세 미만\n- 유아: 12개월 미만\n\n[추가요금]\n- 결제방법: 후결제(현장결제)\n- 12개월 이상 1인 20,000원 (현장결제)\n- 영유아 기준인원 포함\n- 추가요금이 책정된 인원은 기본 침구 제공 / 그외 침구 추가시 한세트 기준 20,000원 현장결제\n\n[공용바베큐]\n- 이용 객실: 전 객실\n- 이용 장소: 카페 건물 2층 바베큐장\n- 바베큐 형태: 숯\n- 제공 구성: 숯+그릴\n- 이용 요금: 2인~4인 기준 20,000원 / 1인(24개월 이상) 추가시 5,000원 (1박기준/현장결제)\n- 신청 시간: 17:00~20:00\n- 준비 소요시간: 30분\n- 이용 시간: 입실 후~22:00\n- 우천 시 : 가능\n- 동계 시 : 가능\n- 강풍 시 : 가능\n※ 바베큐 준비물 개인지참하더라도 기본요금 발생\n※ 삼겹살 세트: 45,000원 (20인이상) 주문 가능 (삼겹살+목살 400g, 수제 된장찌개, 쌈장, 채소, 공기밥, 부추무침)\n※ 소고기 세트: 65,000원 (20인이상) (소고기 모듬 300g, 수제 된장찌개, 쌈장, 채소, 공기밥, 부추무침)\n※ 이용일 2일전 사전 예약 필수\n\n[공용수영장]\n- 운영 기간: 26년 7월 4일 ~ 26년 9월 18일\n- 이용 계절: 하절기\n- 이용 객실: 전 객실\n- 이용 요금: 무료\n- 이용 시간: 15:00~20:00\n- 온도 유형: 냉수\n- 수영장크기 : 15m x 7m / 수심 1.1m\n- 이용 복장: 레쉬가드, 수영복, 물빠짐 없는 반팔, 반바지\n※ 치악산 계곡 지하수로 운영\n※ 튜브 바람넣는 기구 구비 / 튜브 5개 선착순 대여 가능\n※ 아이들은 보호자 동반 필요\n\n[스파]\n- 이용 객실: 전 객실\n- 이용 시간: 15:00~20:00\n- 입욕제 사용: 불가\n- 스파형태: 욕조\n- 수용인원: 1~2인\n- 이용 요금: 무료\n- 온도 조절: 가능\n\n[부대시설]\n- 하우스 웨딩 (펜션 문의)\n- 이벤트 (기업 워크샵, 단체 행사, 야외 결혼식, 가족행사, 프로포즈 등 다양한 이벤트 가능)\n- 카페/식사 (100평 규모의 모던 이태리풍 카페)\n- 카페대여비용 - 주중 이용 요금: 1시간 기준 15만원\n- 카페대여비용 - 주말 이용 요금: 1시간 기준 20만원\n\n[편의 및 주변 시설]\n- 와이파이 보유\n- 넷플릭스 보유 여부 : 불가\n- 넷플릭스 외 OTT 보유 여부 : 불가\n- 넷플릭스 개인 계정 필요 여부 : 불가\n- 엘리베이터 보유 여부 : 없음\n- 매점 (운영 시간: ~10:00, 판매 품목: 주류, 음료 등)\n\n[주차장]\n- 주차장 보유\n- 주차대수 : 70대 정도 주차 가능 (넉넉)\n- 전기차충전기 : 불가\n\n[교통편]\n[자가용 이용 시]\n- 지번 주소 : 강원특별자치도 원주시 소초면 흥양리 321-1\n- 도로명 주소 : 강원특별자치도 원주시 소초면 황골로 469-10\n\n[대중교통 이용 시]\n- 원주역(하차전용) 정류장 - 원주역(31,34,34-1) 정류장 승차 - 원주교오거리 정류장(82번) 하차 및 환승 - 황골삼거리 정류장 하차 - 도보(649m) 약 10분 이동 - 퀴리날레 펜션 도착\n\n[주변관광지와의 거리]\n- 원주자연생태원 - 펜션에서 차량으로 약 14분\n- 한지테마파크 - 펜션에서 차량으로 약 24분\n- 동화마을수목원 - 펜션에서 차량으로 약 28분\n- 원주소금산 출렁다리 - 펜션에서 차량으로 약 30분",
+    "usageGuide": "※ 객실 금액은 기준인원 금액이며 인원 초과 시 추가요금 발생\n※ 예약 시 예약인원을 꼭 확인\n※ 당일 예약 후 오후 10시 이후 입실은 확정 예약 아님 / 업체 사전 문의 필요\n※ 펜션 이용 인원은 입실 기준 / 숙박 여부 관계없이 추가비용 발생\n※ 입실 규정유의사항환불정책 미숙지로 인한 문제는 책임지지 않음\n※ 객실 내 육류,생선류,청국장 등 냄새 심한 음식 조리 불가\n※ 흡연은 개별테라스 및 지정된 흡연구역 이용\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 오후 10시 이후 입실 시 사전 문의\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 12개월 이상~8세 미만\n- 유아: 12개월 미만\n\n[추가 요금]\n- 전객실\n- 요금: 성인 1인 20,000원, 아동 1인 20,000원, 유아 무료\n(1박기준/현장결제)\n- 12개월 이상 1인 20,000원 (현장결제)\n- 영유아 기준인원 포함\n- 추가요금이 책정된 인원은 기본 침구 제공 / 그외 침구 추가시 한세트 기준 20,000원 현장결제\n\n[공용바베큐]\n- 이용 객실: 전 객실\n- 이용 장소: 카페 건물 2층 바베큐장\n- 바베큐 형태: 숯\n- 제공 구성: 숯+그릴\n- 이용 요금: 2인~4인 기준 20,000원 / 1인(24개월 이상) 추가시 5,000원 (1박기준/현장결제)\n- 신청 시간: 17:00~20:00\n- 준비 소요시간: 30분\n- 이용 시간: 입실 후~22:00\n- 우천 시 : 가능\n- 동계 시 : 가능\n- 강풍 시 : 가능\n※ 바베큐 준비물 개인지참하더라도 기본요금 발생\n※ 삼겹살 세트: 45,000원 (20인이상) 주문 가능 (삼겹살+목살 400g, 수제 된장찌개, 쌈장, 채소, 공기밥, 부추무침)\n※ 소고기 세트: 65,000원 (20인이상) (소고기 모듬 300g, 수제 된장찌개, 쌈장, 채소, 공기밥, 부추무침)\n※ 이용일 2일전 사전 예약 필수\n\n[공용수영장]\n- 운영 기간: 26년 7월 4일 ~ 26년 9월 18일\n- 이용 계절: 하절기\n- 이용 객실: 전 객실\n- 이용 요금: 무료\n- 이용 시간: 15:00~20:00\n- 온도 유형: 냉수\n- 수영장크기 : 15m x 7m / 수심 1.1m\n- 이용 복장: 레쉬가드, 수영복, 물빠짐 없는 반팔, 반바지\n※ 치악산 계곡 지하수로 운영\n※ 튜브 바람넣는 기구 구비 / 튜브 5개 선착순 대여 가능\n※ 아이들은 보호자 동반 필요\n\n[스파]\n- 이용 객실: 전 객실\n- 이용 시간: 15:00~20:00\n- 입욕제 사용: 불가\n- 스파형태: 욕조\n- 수용인원: 1~2인\n- 이용 요금: 무료\n- 온도 조절: 가능\n\n[부대시설]\n- 하우스 웨딩 (펜션 문의)\n- 이벤트 (기업 워크샵, 단체 행사, 야외 결혼식, 가족행사, 프로포즈 등 다양한 이벤트 가능)\n- 카페/식사 (100평 규모의 모던 이태리풍 카페)\n- 카페대여비용 - 주중 이용 요금: 1시간 기준 15만원\n- 카페대여비용 - 주말 이용 요금: 1시간 기준 20만원\n\n[편의 및 주변 시설]\n- 와이파이 보유\n- 넷플릭스 보유 여부 : 불가\n- 넷플릭스 외 OTT 보유 여부 : 불가\n- 넷플릭스 개인 계정 필요 여부 : 불가\n- 엘리베이터 보유 여부 : 없음\n- 매점 (운영 시간: ~10:00, 판매 품목: 주류, 음료 등)\n\n[주차장]\n- 주차장 보유\n- 주차대수 : 70대 정도 주차 가능 (넉넉)\n- 전기차충전기 : 불가\n\n[교통편]\n[자가용 이용 시]\n- 지번 주소 : 강원특별자치도 원주시 소초면 흥양리 321-1\n- 도로명 주소 : 강원특별자치도 원주시 소초면 황골로 469-10\n\n[대중교통 이용 시]\n- 원주역(하차전용) 정류장 - 원주역(31,34,34-1) 정류장 승차 - 원주교오거리 정류장(82번) 하차 및 환승 - 황골삼거리 정류장 하차 - 도보(649m) 약 10분 이동 - 퀴리날레 펜션 도착\n\n[주변관광지와의 거리]\n- 원주자연생태원 - 펜션에서 차량으로 약 14분\n- 한지테마파크 - 펜션에서 차량으로 약 24분\n- 동화마을수목원 - 펜션에서 차량으로 약 28분\n- 원주소금산 출렁다리 - 펜션에서 차량으로 약 30분",
     "reservationGuide": "※ 객실 금액은 기준인원 금액이며 인원 초과 시 추가요금 발생\n※ 예약 시 예약인원을 꼭 확인\n※ 당일 예약 후 오후 10시 이후 입실은 확정 예약 아님 / 업체 사전 문의 필요\n※ 펜션 이용 인원은 입실 기준 / 숙박 여부 관계없이 추가비용 발생\n※ 입실 규정유의사항환불정책 미숙지로 인한 문제는 책임지지 않음\n※ 객실 내 육류,생선류,청국장 등 냄새 심한 음식 조리 불가\n※ 흡연은 개별테라스 및 지정된 흡연구역 이용",
     "province": "도/시",
     "city": "시/군/구",
@@ -122,33 +122,41 @@
         "displayOrder": 1,
         "images": [
           {
-            "id": "01a171b5-d4f5-78a3-93f5-8cb897081e76",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/fc7d36c0-f0a4-4119-9bb1-4372f8c76e2e/main/1792909103564-ozo8cu6kad.webp",
+            "id": "01a206e2-f470-7971-9d27-d7e12cc262e8",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/fc7d36c0-f0a4-4119-9bb1-4372f8c76e2e/main/1795411866341-5xd539dugy.jpg",
             "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "01a171b5-d648-71e5-a2d4-bdba16816f7c",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/fc7d36c0-f0a4-4119-9bb1-4372f8c76e2e/main/1792909103600-0chri6gfmi.webp",
+            "id": "01a206e2-f476-79a1-a106-474b89ed5746",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/fc7d36c0-f0a4-4119-9bb1-4372f8c76e2e/main/1795411866338-a5fyqf6jfc.jpg",
             "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "01a171b5-d535-7e88-87ef-fbdd224d64ed",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/fc7d36c0-f0a4-4119-9bb1-4372f8c76e2e/main/1792909103563-u9edk73nso.webp",
+            "id": "01a206e2-f495-765e-aaf7-35675d14f024",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/fc7d36c0-f0a4-4119-9bb1-4372f8c76e2e/main/1795411866347-5qqx8aw9sq.jpg",
             "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "01a171b5-d5b8-71e5-9276-ff7a01490b54",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/fc7d36c0-f0a4-4119-9bb1-4372f8c76e2e/main/1792909103412-4h7efb6lxt.webp",
+            "id": "01a206e2-f468-7e5f-8e74-ff3bc1d117da",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/fc7d36c0-f0a4-4119-9bb1-4372f8c76e2e/main/1795411866340-x68hmo0vvo.jpg",
             "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a206e2-f475-729f-bd1f-837e8804ad2c",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/fc7d36c0-f0a4-4119-9bb1-4372f8c76e2e/main/1795411866344-dxzjrce15t.jpg",
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -190,6 +198,71 @@
             "id": "01a171bf-1d63-7872-80b0-62e92c92a6af",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/b85e926c-95a5-4a46-b9c1-6cadae86448c/main/1792909709283-dsb3oufl05.webp",
             "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      },
+      {
+        "id": "50bfe9e0-e185-4a63-9e33-584c4ea3a178",
+        "name": "공용바베큐",
+        "description": "",
+        "usageGuide": "- 이용 객실: 전 객실\n- 이용 장소: 카페 건물 2층 바베큐장\n- 바베큐 형태: 숯\n- 제공 구성: 숯+그릴\n- 이용 요금: 2인~4인 기준 20,000원 / 1인(24개월 이상) 추가시 5,000원 (1박기준/현장결제)\n- 신청 시간: 17:00~20:00\n- 준비 소요시간: 30분\n- 이용 시간: 입실 후~22:00\n- 우천 시 : 가능\n- 동계 시 : 가능\n- 강풍 시 : 가능\n※ 바베큐 준비물 개인지참하더라도 기본요금 발생\n※ 삼겹살 세트: 45,000원 (20인이상) 주문 가능 (삼겹살+목살 400g, 수제 된장찌개, 쌈장, 채소, 공기밥, 부추무침)\n※ 소고기 세트: 65,000원 (20인이상) (소고기 모듬 300g, 수제 된장찌개, 쌈장, 채소, 공기밥, 부추무침)\n※ 이용일 2일전 사전 예약 필수",
+        "displayOrder": 3,
+        "images": [
+          {
+            "id": "01a206e2-f6a4-7664-a3e2-9d53b4537149",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/50bfe9e0-e185-4a63-9e33-584c4ea3a178/main/1795411866915-wgvqn3149n.webp",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a206e2-f779-757b-b3d5-42ddb36b7a7d",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/50bfe9e0-e185-4a63-9e33-584c4ea3a178/main/1795411866915-4yq5lwkzq8.webp",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a206e2-f67d-742d-a1ea-d48df77e91cd",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/50bfe9e0-e185-4a63-9e33-584c4ea3a178/main/1795411866918-cku0iqsl44.webp",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a206e2-f769-7c39-980f-57d7b658012b",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/50bfe9e0-e185-4a63-9e33-584c4ea3a178/main/1795411866921-w3qn417sk6.webp",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a206e2-f7f0-7162-81e1-987148b085d9",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/50bfe9e0-e185-4a63-9e33-584c4ea3a178/main/1795411866919-by9lyz1ldz.webp",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a206e2-f76b-7670-b011-95e52ad949fa",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/50bfe9e0-e185-4a63-9e33-584c4ea3a178/main/1795411866921-zzdavwgail.webp",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a206e2-f776-701f-a8bd-a33a091ca2a4",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/50bfe9e0-e185-4a63-9e33-584c4ea3a178/main/1795411866921-w3wqbpkt1k.webp",
+            "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -362,7 +435,7 @@
           {
             "id": "01a1f769-9e32-782e-b2ba-e96c9c655bbb",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/20/I3ojNtzA5Ueq.jpg",
-            "sortOrder": 1,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -372,7 +445,7 @@
           {
             "id": "01a1f769-9e32-7a27-a375-f73e925830b9",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/20/gbWC3zxSHfjk.jpg",
-            "sortOrder": 2,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -380,7 +453,7 @@
           {
             "id": "01a1f769-9e32-7ab8-93b5-8542e86a19f0",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/20/WTr0OP4uBaof.jpg",
-            "sortOrder": 3,
+            "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -388,7 +461,7 @@
           {
             "id": "01a1f769-9e32-7bc1-85ff-d62f4fb0c6a7",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/20/3waf9bcuETWh.jpg",
-            "sortOrder": 4,
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -396,7 +469,7 @@
           {
             "id": "01a1f769-9e32-7cb6-9756-9710779fc748",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/20/ormZw1lNS8RC.jpg",
-            "sortOrder": 5,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -404,7 +477,7 @@
           {
             "id": "01a1f769-9e32-7dd6-a6e6-3fad47c25f5f",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/20/VY4Htl68dXC5.jpg",
-            "sortOrder": 6,
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -412,7 +485,7 @@
           {
             "id": "01a1f769-9e32-7e32-a435-6bcf8ee85356",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/20/ZFY3EuPD0UxV.jpg",
-            "sortOrder": 7,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -420,7 +493,7 @@
           {
             "id": "01a1f769-9e32-7f69-980c-d0765aab75e2",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/20/CLaHpX5RAdr7.jpg",
-            "sortOrder": 8,
+            "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -428,7 +501,7 @@
           {
             "id": "01a1f769-9e33-7057-ae11-5e6a5ab7bf53",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/20/Na067enSmsYK.jpg",
-            "sortOrder": 9,
+            "sortOrder": 7,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -436,7 +509,7 @@
           {
             "id": "01a1f769-9e33-7090-a490-b50cd6dfb122",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/20/DOHk6ueGaPgt.jpg",
-            "sortOrder": 10,
+            "sortOrder": 8,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -444,7 +517,7 @@
           {
             "id": "01a1f769-9e33-71a9-98d3-010c7ce97d15",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/20/8OzQTmwIbXMV.jpg",
-            "sortOrder": 11,
+            "sortOrder": 9,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -452,7 +525,7 @@
           {
             "id": "01a1f769-9e33-728e-82eb-4788b764788e",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/20/BvCUWQSaEHXt.jpg",
-            "sortOrder": 12,
+            "sortOrder": 10,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -460,7 +533,7 @@
           {
             "id": "01a1f769-9e33-7496-85cd-efc79ef8d3a3",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/20/O2Xrfx5VHMbZ.jpg",
-            "sortOrder": 13,
+            "sortOrder": 11,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -468,7 +541,7 @@
           {
             "id": "01a1f769-9e33-7513-9813-cd42d8759b4f",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/20/YOcGAJ9qdCNV.jpg",
-            "sortOrder": 14,
+            "sortOrder": 12,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -2062,8 +2135,8 @@
                 "title": "Healing & Rest",
                 "images": [
                   {
-                    "id": "01a171b6-20f7-76dc-a9cf-2380b1b476e2",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a171b5-e08f-788d-85c0-f803f367b502/index_closing/1792909108968-u75n4w1bu9.webp",
+                    "id": "01a206e8-6008-71f2-8bce-87fc8582d0f9",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a171b5-e08f-788d-85c0-f803f367b502/index_closing/1795412221600-yzig2im0k8.jpg",
                     "sortOrder": 0,
                     "description": "",
                     "isSelected": true,
@@ -2078,32 +2151,32 @@
                 "title": "Outside View",
                 "images": [
                   {
-                    "id": "01a171b6-20d4-7edd-829e-e5e2f5443d58",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a171b5-e08f-788d-85c0-f803f367b502/index_essence/1792909108715-wjx18kuh2t.webp",
+                    "id": "01a206e8-60bd-7cc8-9c03-7106b049480a",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a171b5-e08f-788d-85c0-f803f367b502/index_essence/1795412221598-ua86qkjgso.jpg",
                     "sortOrder": 0,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
                   },
                   {
-                    "id": "01a171b6-20d9-750b-99f0-72fea4f4a156",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a171b5-e08f-788d-85c0-f803f367b502/index_essence/1792909108755-04hmmuyx96.webp",
+                    "id": "01a206e8-60b5-7b3b-b4cc-6f23c5edc2e2",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a171b5-e08f-788d-85c0-f803f367b502/index_essence/1795412221600-4yazyeyyar.jpg",
                     "sortOrder": 1,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
                   },
                   {
-                    "id": "01a171b6-20d3-75b3-898b-f35474d2c58e",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a171b5-e08f-788d-85c0-f803f367b502/index_essence/1792909108754-t5j401g0tz.webp",
+                    "id": "01a206e8-5fd4-7d3c-98ad-e0efa7fd0008",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a171b5-e08f-788d-85c0-f803f367b502/index_essence/1795412221595-pee7nbw2nn.jpg",
                     "sortOrder": 2,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
                   },
                   {
-                    "id": "01a171b6-20e0-74c9-8dc7-ebb3e5f4b046",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a171b5-e08f-788d-85c0-f803f367b502/index_essence/1792909108954-l8i3demrza.webp",
+                    "id": "01a206e8-60bd-7ca9-9712-c480dd1ec553",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a171b5-e08f-788d-85c0-f803f367b502/index_essence/1795412221604-8wmqat7t85.jpg",
                     "sortOrder": 3,
                     "description": "",
                     "isSelected": true,
